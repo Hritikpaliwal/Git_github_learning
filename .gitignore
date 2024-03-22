@@ -1,0 +1,6 @@
+# this will ignore the .text file
+# basically you need to provide the file names or the extensions of the files you want git to ignore
+# * represents all the files  
+
+
+*.txt
